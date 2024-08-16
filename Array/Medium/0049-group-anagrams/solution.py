@@ -55,14 +55,15 @@ import string
 
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        wordDict = {}
         result = []
-        for s in strs:
-            temp = []
-            print(list(s))
-            for t in strs[1:]:
-                if sorted(list(s)) == sorted(list(t)):
-                    temp.append(t)
-            result.append(temp)
+        for word in strs:
+            key = list(word)
+            key.sort()
+            b = ''.join(key)
+            wordDict[b] = wordDict.get(b, []) + [word]
+        for val in wordDict.values():
+            result.append(val)
         return result
 # @lc code=end
 
