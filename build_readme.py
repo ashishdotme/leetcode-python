@@ -21,7 +21,7 @@ if __name__ == "__main__":
         index.append("### {}\n".format(topic))
         for row in rows:
             index.append(
-                "* [{title}]({url}) - *last updated at {date}*".format(
+                "* [{title}]({url})".format(
                     title=string.capwords(row["topic3"].replace("-", " ")),
                     date=row["updated"].split("T")[0],
                     url=row["url"]
@@ -36,7 +36,7 @@ if __name__ == "__main__":
         index.append("### {}\n".format(topic))
         for row in rows:
             index.append(
-                "* [{title}]({url}) - *last updated at {date}*".format(
+                "* [{title}]({url})".format(
                     title=string.capwords(row["topic3"].replace("-", " ")),
                     date=row["updated"].split("T")[0],
                     url=row["url"]
@@ -51,7 +51,7 @@ if __name__ == "__main__":
         index.append("### {}\n".format(topic))
         for row in rows:
             index.append(
-                "* [{title}]({url}) - *last updated at {date}*".format(
+                "* [{title}]({url})".format(
                     title=string.capwords(row["topic3"].replace("-", " ")),
                     date=row["updated"].split("T")[0],
                     url=row["url"]
