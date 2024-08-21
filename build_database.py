@@ -95,7 +95,7 @@ def build_database(repo_path):
     table = db.table("problems", pk="path")
     for filepath in root.glob("*/**/**/*.py"):
         fp = filepath.open(encoding="utf8")
-        if "python" not in fp.name:
+        if 'python' or '.venv' or '.github' not in fp.name.split("/"):
             body = "```python  \n" + fp.read().strip() + "\n```"
             insert_records(body, filepath, table, all_times, db)
     table.enable_fts(
