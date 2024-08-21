@@ -46,22 +46,23 @@ jobs:
           git config --global user.name "Ashish Patel"
           git diff --quiet || (git add . && git commit -m "chore: update README")
           git push
-      # - name: Deploy Datasette using Vercel
-      #   env:
-      #     NOW_TOKEN: ${{ secrets.NOW_TOKEN }}
-      #   run: |-
-      #     datasette publish vercel problems.db \
-      #       --token $NOW_TOKEN \
-      #       --project ashish-leetcode \
-      #       --metadata metadata.yaml \
-      #       --static static:static \
-      #       --install datasette-template-sql \
-      #       --install "datasette-atom>=0.7" \
-      #       --install datasette-json-html \
-      #       --install beautifulsoup4 \
-      #       --install datasette-debug-asgi \
-      #       --install "datasette-graphql>=0.12" \
-      #       --install datasette-media \
-      #       --plugins-dir docs/plugins \
-      #       --template-dir docs/templates \
-      #       --public
+      - name: Deploy Datasette using Vercel
+        env:
+          NOW_TOKEN: ${{ secrets.NOW_TOKEN }}
+        run: |-
+          datasette publish vercel problems.db \
+            --token $NOW_TOKEN \
+            --branch 0.64.x \
+            --project ashish-leetcode \
+            --metadata .github/metadata.yaml \
+            --static static:static \
+            --install datasette-template-sql \
+            --install "datasette-atom>=0.7" \
+            --install datasette-json-html \
+            --install beautifulsoup4 \
+            --install datasette-debug-asgi \
+            --install "datasette-graphql>=0.12" \
+            --install datasette-media \
+            --plugins-dir .github/plugins \
+            --template-dir .github/templates \
+            --public
