@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->0<!-- count --> questions solved so far.
+<!-- count -->15<!-- count --> questions solved so far.
 
 ## Notes
 
@@ -51,6 +51,27 @@
 
 <!-- index starts -->
 ## Easy
+### Array
+
+* [1929 Concatenation Of Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1929-concatenation-of-array/solution.py)
+* [0242 Valid Anagram](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0242-valid-anagram/solution.py)
+* [0217 Contains Duplicate](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0217-contains-duplicate/solution.py)
+* [1299 Replace Elements With Greatest Element On Right Side](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1299-replace-elements-with-greatest-element-on-right-side/solution.py)
+* [0392 Is Subsequence](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0392-is-subsequence/solution.py)
+* [0001 Two Sum](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0001-two-sum/solution.py)
+* [0058 Length Of Last Word](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0058-length-of-last-word/solution.py)
+* [0014 Longest Common Prefix](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0014-longest-common-prefix/solution.py)
+* [0118 Pascals Triangle](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0118-pascals-triangle/solution.py)
+* [0929 Unique Email Addresses](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0929-unique-email-addresses/solution.py)
+* [0027 Remove Element](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0027-remove-element/solution.py)
+* [0205 Isomorphic Strings](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0205-isomorphic-strings/solution.py)
+* [0605 Can Place Flowers](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0605-can-place-flowers/solution.py)
+* [0169 Majority Element](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0169-majority-element/solution.py)
+
 ## Medium
+### Array
+
+* [0049 Group Anagrams](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Medium/0049-group-anagrams/solution.py)
+
 ## Hard
 <!-- index ends -->
