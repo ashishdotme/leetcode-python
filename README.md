@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/ashishdotme/assets/master/logo.png" alt="drawing" width="100"/>
 </p>
 
-<h2 align="center">leetcode</h2>
+<h2 align="center">leetcode-python</h2>
 
 <p align="center">
 <a href="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fcode.ashish.me"><img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fcode.ashish.me"></a>
