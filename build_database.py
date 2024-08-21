@@ -42,15 +42,13 @@ def insert_records(body, filepath, table, all_times, db):
       row = table.get(path_slug)
       previous_body = row["body"]
       previous_html = row["html"]
-      topic1 = path.split("/")[0]
-      topic2 = path.split("/")[1]
-      topic3 = path.split("/")[2]
   except (NotFoundError, KeyError):
       previous_body = None
       previous_html = None
-      topic1 = None
-      topic2 = None
-      topic3 = None
+  temp_path = path.split("/")
+  topic1 = temp_path[0]
+  topic2 = temp_path[1] if len(temp_path) > 1 else None
+  topic3 = temp_path[2] if len(temp_path) > 2 else None
   record = {
       "path": path_slug,
       "topic1": topic1,

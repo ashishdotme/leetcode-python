@@ -16,42 +16,45 @@ if __name__ == "__main__":
     index = ["<!-- index starts -->"]
     index.append("## Easy")
     for row in db["problems"].rows_where(where="topic2 = 'Easy'", order_by="created_utc"):
-        by_topic.setdefault(row["topic3"], []).append(row)
+        by_topic.setdefault(row["topic1"], []).append(row)
     for topic, rows in by_topic.items():
         index.append("### {}\n".format(topic))
         for row in rows:
             index.append(
-                "* [{formattedTitle}]({url}) - {date}".format(
-                    formattedTitle=re.sub(r'(?<=[a-z])(?=[A-Z])', ' ', row["title"].replace("-", " ")).title(),
-                    date=row["created"].split("T")[0], **row
+                "* [{title}]({url}) - *last updated at {date}*".format(
+                    title=string.capwords(row["topic3"].replace("-", " ")),
+                    date=row["updated"].split("T")[0],
+                    url=row["url"]
                 )
             )
         index.append("")
     by_topic = {}
     index.append("## Medium")
     for row in db["problems"].rows_where(where="topic2 = 'Medium'", order_by="created_utc"):
-        by_topic.setdefault(row["topic3"], []).append(row)
+        by_topic.setdefault(row["topic1"], []).append(row)
     for topic, rows in by_topic.items():
         index.append("### {}\n".format(topic))
         for row in rows:
             index.append(
-                "* [{formattedTitle}]({url}) - {date}".format(
-                    formattedTitle=re.sub(r'(?<=[a-z])(?=[A-Z])', ' ', row["title"].replace("-", " ")).title(),
-                    date=row["created"].split("T")[0], **row
+                "* [{title}]({url}) - *last updated at {date}*".format(
+                    title=string.capwords(row["topic3"].replace("-", " ")),
+                    date=row["updated"].split("T")[0],
+                    url=row["url"]
                 )
             )
         index.append("")
     by_topic = {}
     index.append("## Hard")
     for row in db["problems"].rows_where(where="topic2 = 'Hard'", order_by="created_utc"):
-        by_topic.setdefault(row["topic3"], []).append(row)
+        by_topic.setdefault(row["topic1"], []).append(row)
     for topic, rows in by_topic.items():
         index.append("### {}\n".format(topic))
         for row in rows:
             index.append(
-                "* [{formattedTitle}]({url}) - {date}".format(
-                    formattedTitle=re.sub(r'(?<=[a-z])(?=[A-Z])', ' ', row["title"].replace("-", " ")).title(),
-                    date=row["created"].split("T")[0], **row
+                "* [{title}]({url}) - *last updated at {date}*".format(
+                    title=string.capwords(row["topic3"].replace("-", " ")),
+                    date=row["updated"].split("T")[0],
+                    url=row["url"]
                 )
             )
         index.append("")
