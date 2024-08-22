@@ -60,6 +60,7 @@ jobs:
             --branch 0.64.x \
             --project ashish-leetcode \
             --metadata .github/metadata.yaml \
+            --vercel-json .github/vercel.json \
             --static static:static \
             --install datasette-template-sql \
             --install "datasette-atom>=0.7" \
