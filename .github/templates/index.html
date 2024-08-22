@@ -64,7 +64,7 @@ database="problems") %}
   {% for problem in sql("select * from problems where topic1 = :topic order by created_utc desc", {"topic":
   row.topic1}, database="problems") %}
   <li>
-    <a href="/{{ problem.topic1 }}/{{ problem.slug }}">{{ problem.slug.replace("-", " ").title() }}</a> - {{ problem.created[:10] }}
+    <a href="/{{ problem.topic1 }}/{{ problem.slug }}">{{ problem.topic3.replace("-", " ").title() }}</a> - {{ problem.created[:10] }}
   </li>
   {% endfor %}
 </ul>

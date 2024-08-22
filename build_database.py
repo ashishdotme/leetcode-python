@@ -95,13 +95,16 @@ def build_database(repo_path):
     table = db.table("problems", pk="path")
     for filepath in root.glob("*/**/**/*.py"):
         fp = filepath.open(encoding="utf8")
-        if 'python' or '.venv' or '.github' not in fp.name.split("/"):
-            body = "```python  \n" + fp.read().strip() + "\n```"
+        if "python" and ".venv" and ".github" not in fp.name.split("/"):
+            formattedBody = rm_char(fp.read().strip(), "```")
+            body = "```python  \n" + formattedBody + "\n```"
             insert_records(body, filepath, table, all_times, db)
     table.enable_fts(
         ["title", "body"], tokenize="porter", create_triggers=True, replace=True
     )
 
-
+def rm_char(original_str, need2rm):
+    ''' Remove charecters in "need2rm" from "original_str" '''
+    return original_str.translate(str.maketrans('','',need2rm))
 if __name__ == "__main__":
     build_database(root)
