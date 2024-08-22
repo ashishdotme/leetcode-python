@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->17<!-- count --> questions solved so far.
+<!-- count -->15<!-- count --> questions solved so far.
 
 ## Notes
 
