@@ -32,6 +32,7 @@ jobs:
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
+          alias pip3.9='python -m pip'
           pip install -r requirements.txt
       - name: Build database
         run: python build_database.py
@@ -53,6 +54,7 @@ jobs:
         env:
           NOW_TOKEN: ${{ secrets.NOW_TOKEN }}
         run: |-
+          alias pip3.9='python -m pip'
           datasette publish vercel problems.db \
             --token $NOW_TOKEN \
             --branch 0.64.x \
