@@ -46,6 +46,9 @@ jobs:
           git config --global user.name "Ashish Patel"
           git diff --quiet || (git add . && git commit -m "chore: update README")
           git push
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18
       - name: Deploy Datasette using Vercel
         env:
           NOW_TOKEN: ${{ secrets.NOW_TOKEN }}
