@@ -1,16 +1,14 @@
-{% extends "note_base.html" %} {% block title %}code.ashish.me{% endblock %}<!DOCTYPE html>
+{% extends "note_base.html" %} {% block title %}leetcode.ashish.me{% endblock %}<!DOCTYPE html>
 
 {% block extra_head %}
 <link href="https://github.com/ashishdotme" rel="me" />
 <link rel="alternate" type="application/atom+xml" title="Atom" href="/problems/feed.atom" />
-<style>
-
-</style>
+<style></style>
 {% endblock %} {% block body %}
 
 <section class="hero is-light">
   <div class="hero-body">
-    <a class="title" href="/">code.ashish.me</a>
+    <a class="title" href="/">leetcode.ashish.me</a>
     <p class="subtitle mt-1">
       <a style="text-decoration: none" href="/problems/feed.atom" title="Atom feed"
         ><svg xmlns="http://www.w3.org/2000/svg" width="14px" height="14px" viewBox="0 0 256 256">
@@ -37,17 +35,16 @@
     </p>
 
     <p>
-      <strong>Recently added:</strong> {% for row in sql("select * from problems order by created_utc
-      desc limit 5", database="problems") %}<a href="/{{ row.topic }}/{{ row.slug }}"
-        >{{ row.slug.replace("-", " ").title() }}</a
+      <strong>Recently added:</strong> {% for row in sql("select * from problems order by created_utc desc limit 5",
+      database="problems") %}<a href="/{{ row.topic1 }}/{{ row.topic3 }}">{{ row.topic3.replace("-", " ").title() }}</a
       >{% if not loop.last %}, {% endif %}{% endfor %}
     </p>
 
     <form action="/problems/search">
-      <div class="field is-grouped is-grouped-left ">
+      <div class="field is-grouped is-grouped-left">
         <p class="control">
-          <input class="input is-primary" type="search" name="q" placeholder="Search {{ sql("select count(*) from problems",
-          database="problems")[0][0] }} problems">
+          <input class="input is-primary" type="search" name="q" placeholder="Search {{ sql("select count(*) from
+          problems", database="problems")[0][0] }} problems">
         </p>
         <p class="control">
           <input class="button is-primary" type="submit" value="Search" />
@@ -57,16 +54,17 @@
   </div>
 </section>
 <section class="body content mt-2 mb-5">
-{% for row in sql("select topic1 from problems group by topic1 order by max(created_utc) desc",
-database="problems") %}
-<h3>{{ row.topic1 }}</h3>
-<ul>
-  {% for problem in sql("select * from problems where topic1 = :topic order by created_utc desc", {"topic":
-  row.topic1}, database="problems") %}
-  <li>
-    <a href="/{{ problem.topic1 }}/{{ problem.slug }}">{{ problem.topic3.replace("-", " ").title() }}</a> - {{ problem.created[:10] }}
-  </li>
-  {% endfor %}
-</ul>
-{% endfor %} {% endblock %}
+  {% for row in sql("select topic1 from problems group by topic1 order by max(created_utc) desc", database="problems")
+  %}
+  <h3>{{ row.topic1 }}</h3>
+  <ul>
+    {% for problem in sql("select * from problems where topic1 = :topic order by created_utc desc", {"topic":
+    row.topic1}, database="problems") %}
+    <li>
+      <a href="/{{ problem.topic1 }}/{{ problem.topic3 }}">{{ problem.topic3.replace("-", " ").title() }}</a> - {{
+      problem.created[:10] }}
+    </li>
+    {% endfor %}
+  </ul>
+  {% endfor %} {% endblock %}
 </section>
