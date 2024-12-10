@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->15<!-- count --> questions solved so far.
+<!-- count -->18<!-- count --> questions solved so far.
 
 ## Notes
 
@@ -67,6 +67,9 @@
 * [0205 Isomorphic Strings](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0205-isomorphic-strings/solution.py)
 * [0605 Can Place Flowers](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0605-can-place-flowers/solution.py)
 * [0169 Majority Element](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0169-majority-element/solution.py)
+* [3318 Find X Sum Of All K Long Subarrays I](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/3318-find-x-sum-of-all-k-long-subarrays-i/solution.py)
+* [3349 Adjacent Increasing Subarrays Detection I](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/3349-adjacent-increasing-subarrays-detection-i/solution.py)
+* [3300 Minimum Element After Replacement With Digit Sum](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/3300-minimum-element-after-replacement-with-digit-sum/solution.py)
 
 ## Medium
 ### Array
