@@ -31,7 +31,7 @@ code:
     # Base directory to put generated questions, defaults to the language slug, e.g. go, python, cpp.
     out_dir: python
     # Path to the python executable that creates the venv.
-    executable: python.exe
+    executable: python3
     blocks:
       - name: beforeMarker
         template: |
@@ -44,6 +44,7 @@ code:
           import operator
           import math 
           import string
+          import leetcode as lc
   cpp:
     # Base directory to put generated questions, defaults to the language slug, e.g. go, python, cpp.
     out_dir: cpp
