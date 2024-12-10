@@ -54,6 +54,7 @@ jobs:
         env:
           NOW_TOKEN: ${{ secrets.NOW_TOKEN }}
         run: |-
+          npm i -g vercel@latest
           alias pip3.9='python -m pip'
           datasette publish vercel problems.db \
             --token $NOW_TOKEN \
