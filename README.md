@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->18<!-- count --> questions solved so far.
+<!-- count -->25<!-- count --> questions solved so far.
 
 ## Notes
 
@@ -70,6 +70,13 @@
 * [3318 Find X Sum Of All K Long Subarrays I](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/3318-find-x-sum-of-all-k-long-subarrays-i/solution.py)
 * [3349 Adjacent Increasing Subarrays Detection I](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/3349-adjacent-increasing-subarrays-detection-i/solution.py)
 * [3300 Minimum Element After Replacement With Digit Sum](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/3300-minimum-element-after-replacement-with-digit-sum/solution.py)
+* [0500 Keyboard Row](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0500-keyboard-row/solution.py)
+* [0463 Island Perimeter](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0463-island-perimeter/solution.py)
+* [0594 Longest Harmonious Subsequence](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0594-longest-harmonious-subsequence/solution.py)
+* [0645 Set Mismatch](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0645-set-mismatch/solution.py)
+* [0495 Teemo Attacking](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0495-teemo-attacking/solution.py)
+* [0495 Teemo Attacking](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0495-teemo-attacking/tempCodeRunnerFile.py)
+* [0561 Array Partition](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0561-array-partition/solution.py)
 
 ## Medium
 ### Array
