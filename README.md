@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->25<!-- count --> questions solved so far.
+<!-- count -->26<!-- count --> questions solved so far.
 
 ## Notes
 
@@ -77,6 +77,7 @@
 * [0495 Teemo Attacking](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0495-teemo-attacking/solution.py)
 * [0495 Teemo Attacking](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0495-teemo-attacking/tempCodeRunnerFile.py)
 * [0561 Array Partition](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0561-array-partition/solution.py)
+* [0506 Relative Ranks](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0506-relative-ranks/solution.py)
 
 ## Medium
 ### Array
