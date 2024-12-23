@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->26<!-- count --> questions solved so far.
+<!-- count -->36<!-- count --> questions solved so far.
 
 ## Notes
 
@@ -78,6 +78,16 @@
 * [0495 Teemo Attacking](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0495-teemo-attacking/tempCodeRunnerFile.py)
 * [0561 Array Partition](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0561-array-partition/solution.py)
 * [0506 Relative Ranks](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0506-relative-ranks/solution.py)
+* [0747 Largest Number At Least Twice Of Others](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0747-largest-number-at-least-twice-of-others/solution.py)
+* [0674 Longest Continuous Increasing Subsequence](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0674-longest-continuous-increasing-subsequence/solution.py)
+* [0941 Valid Mountain Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0941-valid-mountain-array/solution.py)
+* [0888 Fair Candy Swap](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0888-fair-candy-swap/solution.py)
+* [3386 Button With Longest Push Time](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/3386-button-with-longest-push-time/solution.py)
+* [1013 Partition Array Into Three Parts With Equal Sum](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1013-partition-array-into-three-parts-with-equal-sum/solution.py)
+* [0705 Design Hashset](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0705-design-hashset/solution.py)
+* [2660 Determine The Winner Of A Bowling Game](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2660-determine-the-winner-of-a-bowling-game/solution.py)
+* [2660 Determine The Winner Of A Bowling Game](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2660-determine-the-winner-of-a-bowling-game/tempCodeRunnerFile.py)
+* [2965 Find Missing And Repeated Values](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2965-find-missing-and-repeated-values/solution.py)
 
 ## Medium
 ### Array
