@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->36<!-- count --> questions solved so far.
+<!-- count -->37<!-- count --> questions solved so far.
 
 ## Notes
 
@@ -88,6 +88,7 @@
 * [2660 Determine The Winner Of A Bowling Game](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2660-determine-the-winner-of-a-bowling-game/solution.py)
 * [2660 Determine The Winner Of A Bowling Game](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2660-determine-the-winner-of-a-bowling-game/tempCodeRunnerFile.py)
 * [2965 Find Missing And Repeated Values](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2965-find-missing-and-repeated-values/solution.py)
+* [3200 Maximum Height Of A Triangle](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/3200-maximum-height-of-a-triangle/solution.py)
 
 ## Medium
 ### Array
