@@ -1,0 +1,14 @@
+input:
+[2,1]
+output:
+false
+
+input:
+[3,5,5]
+output:
+false
+
+input:
+[0,3,2,1]
+output:
+true
