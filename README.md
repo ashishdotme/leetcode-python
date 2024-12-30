@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->39<!-- count --> questions solved so far.
+<!-- count -->43<!-- count --> questions solved so far.
 
 ## Notes
 
@@ -91,6 +91,10 @@
 * [3200 Maximum Height Of A Triangle](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/3200-maximum-height-of-a-triangle/solution.py)
 * [1816 Truncate Sentence](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1816-truncate-sentence/solution.py)
 * [2335 Minimum Amount Of Time To Fill Cups](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2335-minimum-amount-of-time-to-fill-cups/solution.py)
+* [0661 Image Smoother](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0661-image-smoother/solution.py)
+* [0598 Range Addition Ii](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0598-range-addition-ii/solution.py)
+* [0566 Reshape The Matrix](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0566-reshape-the-matrix/solution.py)
+* [0599 Minimum Index Sum Of Two Lists](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0599-minimum-index-sum-of-two-lists/solution.py)
 
 ## Medium
 ### Array
