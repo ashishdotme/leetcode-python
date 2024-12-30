@@ -1,0 +1,17 @@
+input:
+["Shogun","Tapioca Express","Burger King","KFC"]
+["Piatti","The Grill at Torrey Pines","Hungry Hunter Steakhouse","Shogun"]
+output:
+["Shogun"]
+
+input:
+["Shogun","Tapioca Express","Burger King","KFC"]
+["KFC","Shogun","Burger King"]
+output:
+["Shogun"]
+
+input:
+["happy","sad","good"]
+["sad","happy","good"]
+output:
+["sad","happy"]
