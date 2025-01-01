@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->43<!-- count --> questions solved so far.
+<!-- count -->46<!-- count --> questions solved so far.
 
 ## Notes
 
@@ -95,6 +95,9 @@
 * [0598 Range Addition Ii](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0598-range-addition-ii/solution.py)
 * [0566 Reshape The Matrix](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0566-reshape-the-matrix/solution.py)
 * [0599 Minimum Index Sum Of Two Lists](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0599-minimum-index-sum-of-two-lists/solution.py)
+* [0748 Shortest Completing Word](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0748-shortest-completing-word/solution.py)
+* [0682 Baseball Game](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0682-baseball-game/solution.py)
+* [0697 Degree Of An Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0697-degree-of-an-array/solution.py)
 
 ## Medium
 ### Array
