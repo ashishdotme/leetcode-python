@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->46<!-- count --> questions solved so far.
+<!-- count -->47<!-- count --> questions solved so far.
 
 ## Notes
 
@@ -98,6 +98,7 @@
 * [0748 Shortest Completing Word](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0748-shortest-completing-word/solution.py)
 * [0682 Baseball Game](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0682-baseball-game/solution.py)
 * [0697 Degree Of An Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0697-degree-of-an-array/solution.py)
+* [0806 Number Of Lines To Write String](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0806-number-of-lines-to-write-string/solution.py)
 
 ## Medium
 ### Array
