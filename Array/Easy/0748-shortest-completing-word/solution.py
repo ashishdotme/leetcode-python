@@ -62,19 +62,23 @@ import itertools
 import operator
 import math 
 import string
-import leetcode as lc
 
 # @lc code=begin
 
 class Solution:
     def shortestCompletingWord(self, licensePlate: str, words: List[str]) -> str:
-        for i in words:
-            print(i)
-
+        licensePlate = "".join([i.lower() for i in licensePlate if i.isalpha()])
+        words = sorted(words, key=len)
+        for word in words:
+            for i in range(len(licensePlate)):
+                if(word.count(licensePlate[i]) < licensePlate.count(licensePlate[i])):
+                    break
+                if i == len(licensePlate) - 1:
+                    return word
 # @lc code=end
 
 if __name__ == "__main__":
     licensePlate = "1s3 PSt"
-    words = ["step","steps","stripe","stepple"]
+    words = ["step","stripe","stepple","steps"]
     ans = Solution().shortestCompletingWord(licensePlate, words)
     print("\noutput:", serialize(ans, "string"))

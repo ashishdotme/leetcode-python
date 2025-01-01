@@ -61,26 +61,28 @@ import itertools
 import operator
 import math 
 import string
-
+import numpy as np
 # @lc code=begin
 
 class Solution:
     def imageSmoother(self, img: List[List[int]]) -> List[List[int]]:
-        result = []
-        
-        def calculate_average(row, col):
-            top = max(0, row + 1)
-            bottom = max(0, row - 1)
-            left = max(0, col - 1)
-            right = max(0, col + 1)
-            
+
+        ROWS = len(img)
+        COLS = len(img[0])
+        res = [[0] * COLS for _ in range(ROWS)]
         for row in range(len(img)):
             for col in range(len(img[0])):
-                img[row][col] = calculate_average(row, col)
+                total = 0
+                count = 0
+                for i in range(row - 1, row + 2):
+                    for j in range(col-1, col + 2):
+                        if i < 0 or i == ROWS or j < 0 or j == COLS:
+                            continue
+                        total += img[i][j]
+                        count += 1
+                res[row][col] = total//count
         
-        
-        
-        return img
+        return res
 
 # @lc code=end
 

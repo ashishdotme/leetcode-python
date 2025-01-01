@@ -9,3 +9,9 @@ input:
 ["looks","pest","stew","show"]
 output:
 "pest"
+
+input:
+"Ah71752"
+["suggest","letter","of","husband","easy","education","drug","prevent","writer","old"]
+output:
+"husband"
