@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->47<!-- count --> questions solved so far.
+<!-- count -->48<!-- count --> questions solved so far.
 
 ## Notes
 
@@ -99,6 +99,7 @@
 * [0682 Baseball Game](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0682-baseball-game/solution.py)
 * [0697 Degree Of An Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0697-degree-of-an-array/solution.py)
 * [0806 Number Of Lines To Write String](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0806-number-of-lines-to-write-string/solution.py)
+* [2824 Count Pairs Whose Sum Is Less Than Target](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2824-count-pairs-whose-sum-is-less-than-target/solution.py)
 
 ## Medium
 ### Array
