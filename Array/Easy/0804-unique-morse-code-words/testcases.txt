@@ -1,0 +1,9 @@
+input:
+["gin","zen","gig","msg"]
+output:
+2
+
+input:
+["a"]
+output:
+1
