@@ -68,12 +68,16 @@ import string
 
 class Solution:
     def numberOfLines(self, widths: List[int], s: str) -> List[int]:
-        total = 0
-        for width in widths:
-            total += width
-        print(total//98)
-        print()
-
+        remain = 0
+        line = 1
+        MAX_LIMIT = 100
+        for ch in s:
+            index = ord(ch) - ord('a')
+            remain += widths[index]
+            if remain > MAX_LIMIT:
+                line += 1
+                remain = widths[index]
+        return [line, remain]
 # @lc code=end
 
 if __name__ == "__main__":
