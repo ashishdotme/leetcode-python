@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->57<!-- count --> questions solved so far.
+<!-- count -->70<!-- count --> questions solved so far.
 
 ## Notes
 
@@ -109,6 +109,19 @@
 * [0733 Flood Fill](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0733-flood-fill/solution.py)
 * [0832 Flipping An Image](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0832-flipping-an-image/solution.py)
 * [1184 Distance Between Bus Stops](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1184-distance-between-bus-stops/solution.py)
+* [1002 Find Common Characters](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1002-find-common-characters/solution.py)
+* [2788 Split Strings By Separator](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2788-split-strings-by-separator/solution.py)
+* [0908 Smallest Range I](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0908-smallest-range-i/solution.py)
+* [2956 Find Common Elements Between Two Arrays](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2956-find-common-elements-between-two-arrays/solution.py)
+* [1539 Kth Missing Positive Number](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1539-kth-missing-positive-number/solution.py)
+* [3046 Split The Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/3046-split-the-array/solution.py)
+* [2506 Count Pairs Of Similar Strings](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2506-count-pairs-of-similar-strings/solution.py)
+* [0961 N Repeated Element In Size 2n Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0961-n-repeated-element-in-size-2n-array/solution.py)
+* [2678 Number Of Senior Citizens](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2678-number-of-senior-citizens/solution.py)
+* [1550 Three Consecutive Odds](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1550-three-consecutive-odds/solution.py)
+* [2706 Buy Two Chocolates](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2706-buy-two-chocolates/solution.py)
+* [0914 X Of A Kind In A Deck Of Cards](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0914-x-of-a-kind-in-a-deck-of-cards/solution.py)
+* [1748 Sum Of Unique Elements](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1748-sum-of-unique-elements/solution.py)
 
 ## Medium
 ### Array
