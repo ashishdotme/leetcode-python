@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->70<!-- count --> questions solved so far.
+<!-- count -->74<!-- count --> questions solved so far.
 
 ## Notes
 
@@ -122,6 +122,10 @@
 * [2706 Buy Two Chocolates](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2706-buy-two-chocolates/solution.py)
 * [0914 X Of A Kind In A Deck Of Cards](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0914-x-of-a-kind-in-a-deck-of-cards/solution.py)
 * [1748 Sum Of Unique Elements](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1748-sum-of-unique-elements/solution.py)
+* [2432 The Employee That Worked On The Longest Task](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2432-the-employee-that-worked-on-the-longest-task/solution.py)
+* [2094 Finding 3 Digit Even Numbers](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2094-finding-3-digit-even-numbers/solution.py)
+* [2395 Find Subarrays With Equal Sum](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2395-find-subarrays-with-equal-sum/solution.py)
+* [2815 Max Pair Sum In An Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2815-max-pair-sum-in-an-array/solution.py)
 
 ## Medium
 ### Array
