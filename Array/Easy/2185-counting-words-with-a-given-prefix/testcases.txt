@@ -1,0 +1,11 @@
+input:
+["pay","attention","practice","attend"]
+"at"
+output:
+2
+
+input:
+["leetcode","win","loops","success"]
+"code"
+output:
+0
