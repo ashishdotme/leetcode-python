@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->81<!-- count --> questions solved so far.
+<!-- count -->92<!-- count --> questions solved so far.
 
 ## Notes
 
@@ -133,6 +133,17 @@
 * [1991 Find The Middle Index In Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1991-find-the-middle-index-in-array/solution.py)
 * [2765 Longest Alternating Subarray](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2765-longest-alternating-subarray/solution.py)
 * [0997 Find The Town Judge](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0997-find-the-town-judge/solution.py)
+* [1909 Remove One Element To Make The Array Strictly Increasing](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1909-remove-one-element-to-make-the-array-strictly-increasing/solution.py)
+* [2057 Smallest Index With Equal Value](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2057-smallest-index-with-equal-value/solution.py)
+* [2553 Separate The Digits In An Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2553-separate-the-digits-in-an-array/solution.py)
+* [1700 Number Of Students Unable To Eat Lunch](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1700-number-of-students-unable-to-eat-lunch/solution.py)
+* [2089 Find Target Indices After Sorting Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2089-find-target-indices-after-sorting-array/solution.py)
+* [2215 Find The Difference Of Two Arrays](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2215-find-the-difference-of-two-arrays/solution.py)
+* [2656 Maximum Sum With Exactly K Elements](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2656-maximum-sum-with-exactly-k-elements/solution.py)
+* [1534 Count Good Triplets](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1534-count-good-triplets/solution.py)
+* [2210 Count Hills And Valleys In An Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2210-count-hills-and-valleys-in-an-array/solution.py)
+* [2099 Find Subsequence Of Length K With The Largest Sum](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2099-find-subsequence-of-length-k-with-the-largest-sum/solution.py)
+* [2185 Counting Words With A Given Prefix](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2185-counting-words-with-a-given-prefix/solution.py)
 
 ## Medium
 ### Array
