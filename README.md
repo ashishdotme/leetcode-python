@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->74<!-- count --> questions solved so far.
+<!-- count -->81<!-- count --> questions solved so far.
 
 ## Notes
 
@@ -126,6 +126,13 @@
 * [2094 Finding 3 Digit Even Numbers](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2094-finding-3-digit-even-numbers/solution.py)
 * [2395 Find Subarrays With Equal Sum](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2395-find-subarrays-with-equal-sum/solution.py)
 * [2815 Max Pair Sum In An Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2815-max-pair-sum-in-an-array/solution.py)
+* [0883 Projection Area Of 3d Shapes](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0883-projection-area-of-3d-shapes/solution.py)
+* [1046 Last Stone Weight](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1046-last-stone-weight/solution.py)
+* [0989 Add To Array Form Of Integer](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0989-add-to-array-form-of-integer/solution.py)
+* [2643 Row With Maximum Ones](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2643-row-with-maximum-ones/solution.py)
+* [1991 Find The Middle Index In Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1991-find-the-middle-index-in-array/solution.py)
+* [2765 Longest Alternating Subarray](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2765-longest-alternating-subarray/solution.py)
+* [0997 Find The Town Judge](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0997-find-the-town-judge/solution.py)
 
 ## Medium
 ### Array
