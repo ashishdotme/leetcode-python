@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->92<!-- count --> questions solved so far.
+<!-- count -->95<!-- count --> questions solved so far.
 
 ## Notes
 
@@ -144,6 +144,9 @@
 * [2210 Count Hills And Valleys In An Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2210-count-hills-and-valleys-in-an-array/solution.py)
 * [2099 Find Subsequence Of Length K With The Largest Sum](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2099-find-subsequence-of-length-k-with-the-largest-sum/solution.py)
 * [2185 Counting Words With A Given Prefix](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2185-counting-words-with-a-given-prefix/solution.py)
+* [1464 Maximum Product Of Two Elements In An Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1464-maximum-product-of-two-elements-in-an-array/solution.py)
+* [2239 Find Closest Number To Zero](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2239-find-closest-number-to-zero/solution.py)
+* [1636 Sort Array By Increasing Frequency](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1636-sort-array-by-increasing-frequency/solution.py)
 
 ## Medium
 ### Array
