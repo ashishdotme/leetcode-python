@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->118<!-- count --> questions solved so far.
+<!-- count -->126<!-- count --> questions solved so far.
 
 ## Notes
 
@@ -170,6 +170,14 @@
 * [2540 Minimum Common Value](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2540-minimum-common-value/solution.py)
 * [1967 Number Of Strings That Appear As Substrings In Word](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/solution.py)
 * [2446 Determine If Two Events Have Conflict](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2446-determine-if-two-events-have-conflict/solution.py)
+* [1598 Crawler Log Folder](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1598-crawler-log-folder/solution.py)
+* [2605 Form Smallest Number From Two Digit Arrays](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2605-form-smallest-number-from-two-digit-arrays/solution.py)
+* [3248 Snake In Matrix](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/3248-snake-in-matrix/solution.py)
+* [1652 Defuse The Bomb](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1652-defuse-the-bomb/solution.py)
+* [2744 Find Maximum Number Of String Pairs](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2744-find-maximum-number-of-string-pairs/solution.py)
+* [2500 Delete Greatest Value In Each Row](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2500-delete-greatest-value-in-each-row/solution.py)
+* [2496 Maximum Value Of A String In An Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2496-maximum-value-of-a-string-in-an-array/solution.py)
+* [2341 Maximum Number Of Pairs In Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2341-maximum-number-of-pairs-in-array/solution.py)
 
 ## Medium
 ### Array
