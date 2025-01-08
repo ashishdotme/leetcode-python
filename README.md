@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->105<!-- count --> questions solved so far.
+<!-- count -->118<!-- count --> questions solved so far.
 
 ## Notes
 
@@ -157,6 +157,19 @@
 * [1380 Lucky Numbers In A Matrix](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1380-lucky-numbers-in-a-matrix/solution.py)
 * [1408 String Matching In An Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1408-string-matching-in-an-array/solution.py)
 * [1385 Find The Distance Value Between Two Arrays](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1385-find-the-distance-value-between-two-arrays/solution.py)
+* [2748 Number Of Beautiful Pairs](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2748-number-of-beautiful-pairs/solution.py)
+* [2784 Check If Array Is Good](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2784-check-if-array-is-good/solution.py)
+* [2404 Most Frequent Even Element](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2404-most-frequent-even-element/solution.py)
+* [2778 Sum Of Squares Of Special Elements](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2778-sum-of-squares-of-special-elements/solution.py)
+* [2475 Number Of Unequal Triplets In Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2475-number-of-unequal-triplets-in-array/solution.py)
+* [2586 Count The Number Of Vowel Strings In Range](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2586-count-the-number-of-vowel-strings-in-range/solution.py)
+* [1854 Maximum Population Year](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1854-maximum-population-year/solution.py)
+* [1848 Minimum Distance To The Target Element](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1848-minimum-distance-to-the-target-element/solution.py)
+* [1913 Maximum Product Difference Between Two Pairs](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1913-maximum-product-difference-between-two-pairs/solution.py)
+* [2828 Check If A String Is An Acronym Of Words](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2828-check-if-a-string-is-an-acronym-of-words/solution.py)
+* [2540 Minimum Common Value](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2540-minimum-common-value/solution.py)
+* [1967 Number Of Strings That Appear As Substrings In Word](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/solution.py)
+* [2446 Determine If Two Events Have Conflict](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2446-determine-if-two-events-have-conflict/solution.py)
 
 ## Medium
 ### Array
