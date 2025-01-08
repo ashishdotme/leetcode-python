@@ -1,0 +1,23 @@
+input:
+[13,2,3,1,9]
+["a","a","a","a","a"]
+output:
+"Flush"
+
+input:
+[4,4,2,4,4]
+["d","a","a","b","c"]
+output:
+"Three of a Kind"
+
+input:
+[10,10,2,12,9]
+["a","b","c","a","d"]
+output:
+"Pair"
+
+input:
+[2,1,2,1,1]
+["d","b","a","a","d"]
+output:
+"Three of a Kind"
