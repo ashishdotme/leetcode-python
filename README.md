@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->101<!-- count --> questions solved so far.
+<!-- count -->105<!-- count --> questions solved so far.
 
 ## Notes
 
@@ -153,6 +153,10 @@
 * [1252 Cells With Odd Values In A Matrix](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1252-cells-with-odd-values-in-a-matrix/solution.py)
 * [2347 Best Poker Hand](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2347-best-poker-hand/solution.py)
 * [1450 Number Of Students Doing Homework At A Given Time](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1450-number-of-students-doing-homework-at-a-given-time/solution.py)
+* [2032 Two Out Of Three](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2032-two-out-of-three/solution.py)
+* [1380 Lucky Numbers In A Matrix](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1380-lucky-numbers-in-a-matrix/solution.py)
+* [1408 String Matching In An Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1408-string-matching-in-an-array/solution.py)
+* [1385 Find The Distance Value Between Two Arrays](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1385-find-the-distance-value-between-two-arrays/solution.py)
 
 ## Medium
 ### Array
