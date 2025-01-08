@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->95<!-- count --> questions solved so far.
+<!-- count -->101<!-- count --> questions solved so far.
 
 ## Notes
 
@@ -147,6 +147,12 @@
 * [1464 Maximum Product Of Two Elements In An Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1464-maximum-product-of-two-elements-in-an-array/solution.py)
 * [2239 Find Closest Number To Zero](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2239-find-closest-number-to-zero/solution.py)
 * [1636 Sort Array By Increasing Frequency](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1636-sort-array-by-increasing-frequency/solution.py)
+* [1662 Check If Two String Arrays Are Equivalent](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1662-check-if-two-string-arrays-are-equivalent/solution.py)
+* [2903 Find Indices With Index And Value Difference I](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2903-find-indices-with-index-and-value-difference-i/solution.py)
+* [1275 Find Winner On A Tic Tac Toe Game](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1275-find-winner-on-a-tic-tac-toe-game/solution.py)
+* [1252 Cells With Odd Values In A Matrix](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1252-cells-with-odd-values-in-a-matrix/solution.py)
+* [2347 Best Poker Hand](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2347-best-poker-hand/solution.py)
+* [1450 Number Of Students Doing Homework At A Given Time](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1450-number-of-students-doing-homework-at-a-given-time/solution.py)
 
 ## Medium
 ### Array
