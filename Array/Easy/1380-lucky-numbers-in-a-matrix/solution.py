@@ -63,9 +63,16 @@ import numpy as np
 
 class Solution:
     def luckyNumbers(self, matrix: List[List[int]]) -> List[int]:
-        print(np.matrix(matrix))
-        
-        return matrix
+        min_row = []
+        max_col = []
+        for i in range(len(matrix)):
+            min_row.append(min(matrix[i]))
+        cols = []
+        for col in range(len(matrix[0])):
+            cols.append([row[col] for row in matrix])
+        for col in cols:
+            max_col.append(max(col))
+        return list(set(min_row) & set(max_col))
 
 # @lc code=end
 
