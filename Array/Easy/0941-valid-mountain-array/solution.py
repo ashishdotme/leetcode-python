@@ -55,7 +55,6 @@ import itertools
 import operator
 import math 
 import string
-import leetcode as lc
 
 # @lc code=begin
 

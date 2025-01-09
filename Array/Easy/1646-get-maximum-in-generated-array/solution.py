@@ -1,0 +1,89 @@
+# Created by Ashish Patel at 2025/01/09 22:20
+# leetgo: 1.4.13
+# https://leetcode.com/problems/get-maximum-in-generated-array/
+
+"""
+1646. Get Maximum in Generated Array (Easy)
+You are given an integer `n`. A **0-indexed** integer array `nums` of length `n + 1` is generated in
+the following way:
+
+- `nums[0] = 0`
+- `nums[1] = 1`
+- `nums[2 * i] = nums[i]` when `2 <= 2 * i <= n`
+- `nums[2 * i + 1] = nums[i] + nums[i + 1]` when `2 <= 2 * i + 1 <= n`
+
+Returnthe **maximum** integer in the array  `nums` .
+
+**Example 1:**
+
+```
+Input: n = 7
+Output: 3
+Explanation: According to the given rules:
+  nums[0] = 0
+  nums[1] = 1
+  nums[(1 * 2) = 2] = nums[1] = 1
+  nums[(1 * 2) + 1 = 3] = nums[1] + nums[2] = 1 + 1 = 2
+  nums[(2 * 2) = 4] = nums[2] = 1
+  nums[(2 * 2) + 1 = 5] = nums[2] + nums[3] = 1 + 2 = 3
+  nums[(3 * 2) = 6] = nums[3] = 2
+  nums[(3 * 2) + 1 = 7] = nums[3] + nums[4] = 2 + 1 = 3
+Hence, nums = [0,1,1,2,1,3,2,3], and the maximum is max(0,1,1,2,1,3,2,3) = 3.
+```
+
+**Example 2:**
+
+```
+Input: n = 2
+Output: 1
+Explanation: According to the given rules, nums = [0,1,1]. The maximum is max(0,1,1) = 1.
+```
+
+**Example 3:**
+
+```
+Input: n = 3
+Output: 2
+Explanation: According to the given rules, nums = [0,1,1,2]. The maximum is max(0,1,1,2) = 2.
+```
+
+**Constraints:**
+
+- `0 <= n <= 100`
+
+"""
+
+from typing import *
+from leetgo_py import *
+
+import bisect
+import collections 
+import functools
+import heapq 
+import itertools 
+import operator
+import math 
+import string
+
+# @lc code=begin
+
+class Solution:
+    def getMaximumGenerated(self, n: int) -> int:
+        if n<2:
+            return n
+        arr = [0]*(n + 1)
+        arr[0] = 0
+        arr[1] = 1
+        for i in range (2, n+1):
+            if i % 2 == 0:
+              arr[i] = arr[i // 2]
+            else:
+              arr[i] = arr[i // 2] + arr[(i//2)+1]
+        return max(arr)
+
+# @lc code=end
+
+if __name__ == "__main__":
+    n = 7
+    ans = Solution().getMaximumGenerated(n)
+    print("\noutput:", serialize(ans, "integer"))
