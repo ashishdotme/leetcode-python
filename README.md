@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->126<!-- count --> questions solved so far.
+<!-- count -->129<!-- count --> questions solved so far.
 
 ## Notes
 
@@ -178,6 +178,9 @@
 * [2500 Delete Greatest Value In Each Row](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2500-delete-greatest-value-in-each-row/solution.py)
 * [2496 Maximum Value Of A String In An Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2496-maximum-value-of-a-string-in-an-array/solution.py)
 * [2341 Maximum Number Of Pairs In Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2341-maximum-number-of-pairs-in-array/solution.py)
+* [1475 Final Prices With A Special Discount In A Shop](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1475-final-prices-with-a-special-discount-in-a-shop/solution.py)
+* [1588 Sum Of All Odd Length Subarrays](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1588-sum-of-all-odd-length-subarrays/solution.py)
+* [1572 Matrix Diagonal Sum](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1572-matrix-diagonal-sum/solution.py)
 
 ## Medium
 ### Array
