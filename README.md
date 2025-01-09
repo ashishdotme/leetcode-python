@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->129<!-- count --> questions solved so far.
+<!-- count -->132<!-- count --> questions solved so far.
 
 ## Notes
 
@@ -181,6 +181,9 @@
 * [1475 Final Prices With A Special Discount In A Shop](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1475-final-prices-with-a-special-discount-in-a-shop/solution.py)
 * [1588 Sum Of All Odd Length Subarrays](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1588-sum-of-all-odd-length-subarrays/solution.py)
 * [1572 Matrix Diagonal Sum](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1572-matrix-diagonal-sum/solution.py)
+* [0944 Delete Columns To Make Sorted](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0944-delete-columns-to-make-sorted/solution.py)
+* [1646 Get Maximum In Generated Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1646-get-maximum-in-generated-array/solution.py)
+* [1752 Check If Array Is Sorted And Rotated](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1752-check-if-array-is-sorted-and-rotated/solution.py)
 
 ## Medium
 ### Array
