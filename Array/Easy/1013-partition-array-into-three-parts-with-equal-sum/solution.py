@@ -58,7 +58,22 @@ import leetcode as lc
 
 class Solution:
     def canThreePartsEqualSum(self, arr: List[int]) -> bool:
-        
+        if sum(arr) % 3 != 0:
+            return False
+        avg = sum(arr) // 3
+        count = 0
+        index = 0
+        curr_sum = 0
+        while index < len(arr):
+            curr_sum += arr[index]
+            if curr_sum == avg:
+                count += 1
+                curr_sum = 0
+            index += 1
+            if count == 3:
+                return True
+        if count != 3:
+            return False
 
 # @lc code=end
 

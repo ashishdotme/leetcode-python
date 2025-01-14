@@ -1,0 +1,17 @@
+input:
+["hello","leetcode"]
+"hlabcdefgijkmnopqrstuvwxyz"
+output:
+true
+
+input:
+["word","world","row"]
+"worldabcefghijkmnpqstuvxyz"
+output:
+false
+
+input:
+["apple","app"]
+"abcdefghijklmnopqrstuvwxyz"
+output:
+false

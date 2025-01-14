@@ -1,0 +1,11 @@
+input:
+"iloveleetcode"
+["i","love","leetcode","apples"]
+output:
+true
+
+input:
+"iloveleetcode"
+["apples","i","love","leetcode"]
+output:
+false
