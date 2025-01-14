@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->132<!-- count --> questions solved so far.
+<!-- count -->153<!-- count --> questions solved so far.
 
 ## Notes
 
@@ -184,11 +184,32 @@
 * [0944 Delete Columns To Make Sorted](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0944-delete-columns-to-make-sorted/solution.py)
 * [1646 Get Maximum In Generated Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1646-get-maximum-in-generated-array/solution.py)
 * [1752 Check If Array Is Sorted And Rotated](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1752-check-if-array-is-sorted-and-rotated/solution.py)
+* [2455 Average Value Of Even Numbers That Are Divisible By Three](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2455-average-value-of-even-numbers-that-are-divisible-by-three/solution.py)
+* [0896 Monotonic Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0896-monotonic-array/solution.py)
+* [1608 Special Array With X Elements Greater Than Or Equal X](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1608-special-array-with-x-elements-greater-than-or-equal-x/solution.py)
+* [1827 Minimum Operations To Make The Array Increasing](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1827-minimum-operations-to-make-the-array-increasing/solution.py)
+* [0999 Available Captures For Rook](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0999-available-captures-for-rook/solution.py)
+* [1961 Check If String Is A Prefix Of Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1961-check-if-string-is-a-prefix-of-array/solution.py)
+* [0976 Largest Perimeter Triangle](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0976-largest-perimeter-triangle/solution.py)
+* [1822 Sign Of The Product Of An Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1822-sign-of-the-product-of-an-array/solution.py)
+* [0922 Sort Array By Parity Ii](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0922-sort-array-by-parity-ii/solution.py)
+* [1005 Maximize Sum Of Array After K Negations](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1005-maximize-sum-of-array-after-k-negations/solution.py)
+* [0953 Verifying An Alien Dictionary](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0953-verifying-an-alien-dictionary/solution.py)
+* [2670 Find The Distinct Difference Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2670-find-the-distinct-difference-array/solution.py)
+* [1995 Count Special Quadruplets](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1995-count-special-quadruplets/solution.py)
+* [2006 Count Number Of Pairs With Absolute Difference K](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2006-count-number-of-pairs-with-absolute-difference-k/solution.py)
+* [1037 Valid Boomerang](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1037-valid-boomerang/solution.py)
+* [0942 Di String Match](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0942-di-string-match/solution.py)
+* [1710 Maximum Units On A Truck](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1710-maximum-units-on-a-truck/solution.py)
 
 ## Medium
 ### Array
 
 * [0049 Group Anagrams](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Medium/0049-group-anagrams/solution.py)
+* [0986 Interval List Intersections](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Medium/0986-interval-list-intersections/solution.py)
+* [0056 Merge Intervals](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Medium/0056-merge-intervals/solution.py)
+* [0018 4sum](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Medium/0018-4sum/solution.py)
+* [0034 Find First And Last Position Of Element In Sorted Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/solution.py)
 
 ## Hard
 <!-- index ends -->
