@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->185<!-- count --> questions solved so far.
+<!-- count -->188<!-- count --> questions solved so far.
 
 ## Notes
 
@@ -233,6 +233,9 @@
 * [3131 Find The Integer Added To Array I](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/3131-find-the-integer-added-to-array-i/solution.py)
 * [2273 Find Resultant Array After Removing Anagrams](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2273-find-resultant-array-after-removing-anagrams/solution.py)
 * [3354 Make Array Elements Equal To Zero](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/3354-make-array-elements-equal-to-zero/solution.py)
+* [2441 Largest Positive Integer That Exists With Its Negative](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2441-largest-positive-integer-that-exists-with-its-negative/solution.py)
+* [2529 Maximum Count Of Positive Integer And Negative Integer](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2529-maximum-count-of-positive-integer-and-negative-integer/solution.py)
+* [1640 Check Array Formation Through Concatenation](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1640-check-array-formation-through-concatenation/solution.py)
 
 ## Medium
 ### Array
