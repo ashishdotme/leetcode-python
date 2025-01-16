@@ -1,0 +1,9 @@
+input:
+["abba","baba","bbaa","cd","cd"]
+output:
+["abba","cd"]
+
+input:
+["a","b","c","d","e"]
+output:
+["a","b","c","d","e"]
