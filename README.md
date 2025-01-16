@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->176<!-- count --> questions solved so far.
+<!-- count -->185<!-- count --> questions solved so far.
 
 ## Notes
 
@@ -224,6 +224,15 @@
 * [1122 Relative Sort Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1122-relative-sort-array/solution.py)
 * [2303 Calculate Amount Paid In Taxes](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2303-calculate-amount-paid-in-taxes/solution.py)
 * [1413 Minimum Value To Get Positive Step By Step Sum](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1413-minimum-value-to-get-positive-step-by-step-sum/solution.py)
+* [2639 Find The Width Of Columns Of A Grid](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2639-find-the-width-of-columns-of-a-grid/solution.py)
+* [2255 Count Prefixes Of A Given String](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2255-count-prefixes-of-a-given-string/solution.py)
+* [2248 Intersection Of Multiple Arrays](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2248-intersection-of-multiple-arrays/solution.py)
+* [1619 Mean Of Array After Removing Some Elements](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1619-mean-of-array-after-removing-some-elements/solution.py)
+* [2190 Most Frequent Number Following Key In An Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2190-most-frequent-number-following-key-in-an-array/solution.py)
+* [2154 Keep Multiplying Found Values By Two](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2154-keep-multiplying-found-values-by-two/solution.py)
+* [3131 Find The Integer Added To Array I](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/3131-find-the-integer-added-to-array-i/solution.py)
+* [2273 Find Resultant Array After Removing Anagrams](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2273-find-resultant-array-after-removing-anagrams/solution.py)
+* [3354 Make Array Elements Equal To Zero](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/3354-make-array-elements-equal-to-zero/solution.py)
 
 ## Medium
 ### Array
