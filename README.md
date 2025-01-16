@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->153<!-- count --> questions solved so far.
+<!-- count -->176<!-- count --> questions solved so far.
 
 ## Notes
 
@@ -201,6 +201,29 @@
 * [1037 Valid Boomerang](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1037-valid-boomerang/solution.py)
 * [0942 Di String Match](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0942-di-string-match/solution.py)
 * [1710 Maximum Units On A Truck](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1710-maximum-units-on-a-truck/solution.py)
+* [2144 Minimum Cost Of Buying Candies With Discount](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2144-minimum-cost-of-buying-candies-with-discount/solution.py)
+* [1331 Rank Transform Of An Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1331-rank-transform-of-an-array/solution.py)
+* [1217 Minimum Cost To Move Chips To The Same Position](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1217-minimum-cost-to-move-chips-to-the-same-position/solution.py)
+* [1128 Number Of Equivalent Domino Pairs](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1128-number-of-equivalent-domino-pairs/solution.py)
+* [1979 Find Greatest Common Divisor Of Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1979-find-greatest-common-divisor-of-array/solution.py)
+* [1684 Count The Number Of Consistent Strings](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1684-count-the-number-of-consistent-strings/solution.py)
+* [3392 Count Subarrays Of Length Three With A Condition](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/3392-count-subarrays-of-length-three-with-a-condition/solution.py)
+* [1725 Number Of Rectangles That Can Form The Largest Square](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1725-number-of-rectangles-that-can-form-the-largest-square/solution.py)
+* [2133 Check If Every Row And Column Contains All Numbers](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2133-check-if-every-row-and-column-contains-all-numbers/solution.py)
+* [2073 Time Needed To Buy Tickets](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2073-time-needed-to-buy-tickets/solution.py)
+* [2176 Count Equal And Divisible Pairs In An Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2176-count-equal-and-divisible-pairs-in-an-array/solution.py)
+* [2085 Count Common Words With One Occurrence](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2085-count-common-words-with-one-occurrence/solution.py)
+* [1491 Average Salary Excluding The Minimum And Maximum Salary](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary/solution.py)
+* [2357 Make Array Zero By Subtracting Equal Amounts](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2357-make-array-zero-by-subtracting-equal-amounts/solution.py)
+* [3364 Minimum Positive Sum Subarray](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/3364-minimum-positive-sum-subarray/solution.py)
+* [3417 Zigzag Grid Traversal With Skip](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/3417-zigzag-grid-traversal-with-skip/solution.py)
+* [1160 Find Words That Can Be Formed By Characters](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1160-find-words-that-can-be-formed-by-characters/solution.py)
+* [2078 Two Furthest Houses With Different Colors](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2078-two-furthest-houses-with-different-colors/solution.py)
+* [3411 Maximum Subarray With Equal Products](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/3411-maximum-subarray-with-equal-products/solution.py)
+* [2164 Sort Even And Odd Indices Independently](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2164-sort-even-and-odd-indices-independently/solution.py)
+* [1122 Relative Sort Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1122-relative-sort-array/solution.py)
+* [2303 Calculate Amount Paid In Taxes](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2303-calculate-amount-paid-in-taxes/solution.py)
+* [1413 Minimum Value To Get Positive Step By Step Sum](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1413-minimum-value-to-get-positive-step-by-step-sum/solution.py)
 
 ## Medium
 ### Array
