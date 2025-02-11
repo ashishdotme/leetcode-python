@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->188<!-- count --> questions solved so far.
+<!-- count -->197<!-- count --> questions solved so far.
 
 ## Notes
 
@@ -236,6 +236,12 @@
 * [2441 Largest Positive Integer That Exists With Its Negative](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2441-largest-positive-integer-that-exists-with-its-negative/solution.py)
 * [2529 Maximum Count Of Positive Integer And Negative Integer](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/2529-maximum-count-of-positive-integer-and-negative-integer/solution.py)
 * [1640 Check Array Formation Through Concatenation](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1640-check-array-formation-through-concatenation/solution.py)
+* [1266 Minimum Time Visiting All Points](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1266-minimum-time-visiting-all-points/solution.py)
+* [1403 Minimum Subsequence In Non Increasing Order](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1403-minimum-subsequence-in-non-increasing-order/solution.py)
+* [1566 Detect Pattern Of Length M Repeated K Or More Times](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1566-detect-pattern-of-length-m-repeated-k-or-more-times/solution.py)
+* [1560 Most Visited Sector In A Circular Track](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1560-most-visited-sector-in-a-circular-track/solution.py)
+* [1460 Make Two Arrays Equal By Reversing Subarrays](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/solution.py)
+* [1337 The K Weakest Rows In A Matrix](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1337-the-k-weakest-rows-in-a-matrix/solution.py)
 
 ## Medium
 ### Array
@@ -245,6 +251,9 @@
 * [0056 Merge Intervals](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Medium/0056-merge-intervals/solution.py)
 * [0018 4sum](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Medium/0018-4sum/solution.py)
 * [0034 Find First And Last Position Of Element In Sorted Array](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/solution.py)
+* [0162 Find Peak Element](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Medium/0162-find-peak-element/solution.py)
+* [0053 Maximum Subarray](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Medium/0053-maximum-subarray/solution.py)
+* [0082 Remove Duplicates From Sorted List Ii](https://github.com/ashishdotme/leetcode-python/blob/master/Array/Medium/0082-remove-duplicates-from-sorted-list-ii/solution.py)
 
 ## Hard
 <!-- index ends -->
