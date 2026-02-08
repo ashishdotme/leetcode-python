@@ -4,12 +4,12 @@ GitPython
 Pydriller
 sqlite-utils>=3.2
 py-gfm
-datasette-render-markdown
+datasette-render-markdown==2.2.1
 datasette-publish-dokploy @ git+https://github.com/ashishdotme/datasette-publish-dokploy@main
-datasette-template-sql>=1.0.2
-datasette>=0.59
-datasette-atom>=0.7
+datasette-template-sql==1.0.2
+datasette==0.65.2
+datasette-atom==0.9
 beautifulsoup4
-datasette-graphql
-datasette-media
-datasette-block-robots
+datasette-graphql==2.2
+datasette-media==0.5.1
+datasette-block-robots==1.1

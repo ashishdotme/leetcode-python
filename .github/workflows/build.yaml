@@ -65,18 +65,18 @@ jobs:
           alias pip3.9='python -m pip'
           datasette publish dokploy problems.db \
             --image ghcr.io/${{ github.repository }}:latest \
-            --branch 0.64.x \
+            --install "datasette==0.65.2" \
             --dokploy-url "$DOKPLOY_URL" \
             --application-id "$DOKPLOY_APPLICATION_ID" \
             --api-key "$DOKPLOY_API_KEY" \
             --metadata .github/metadata.yaml \
             --static static:static \
-            --install datasette-template-sql \
-            --install "datasette-atom>=0.7" \
-            --install datasette-json-html \
+            --install "datasette-template-sql==1.0.2" \
+            --install "datasette-atom==0.9" \
+            --install "datasette-json-html==1.0.1" \
             --install beautifulsoup4 \
-            --install datasette-debug-asgi \
-            --install "datasette-graphql>=0.12" \
-            --install datasette-media \
+            --install "datasette-debug-asgi==1.1" \
+            --install "datasette-graphql==2.2" \
+            --install "datasette-media==0.5.1" \
             --plugins-dir .github/plugins \
             --template-dir .github/templates
