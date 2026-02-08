@@ -12,6 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      packages: write
     steps:
       - name: Check out repo
         uses: actions/checkout@v2
@@ -47,21 +48,26 @@ jobs:
           git config --global user.name "Ashish Patel"
           git diff --quiet || (git add . && git commit -m "chore: update README")
           git push
-      - uses: actions/setup-node@v4
+      - name: Log in to GHCR
+        uses: docker/login-action@v3
         with:
-          node-version: 18
-      - name: Deploy Datasette using Vercel
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+      - name: Deploy Datasette using Dokploy
         env:
-          NOW_TOKEN: ${{ secrets.NOW_TOKEN }}
+          DOKPLOY_URL: ${{ secrets.DOKPLOY_URL }}
+          DOKPLOY_APPLICATION_ID: ${{ secrets.DOKPLOY_APPLICATION_ID }}
+          DOKPLOY_API_KEY: ${{ secrets.DOKPLOY_API_KEY }}
         run: |-
-          npm i -g vercel@latest
           alias pip3.9='python -m pip'
-          datasette publish vercel problems.db \
-            --token $NOW_TOKEN \
+          datasette publish dokploy problems.db \
+            --image ghcr.io/${{ github.repository }}:latest \
             --branch 0.64.x \
-            --project ashish-leetcode \
+            --dokploy-url "$DOKPLOY_URL" \
+            --application-id "$DOKPLOY_APPLICATION_ID" \
+            --api-key "$DOKPLOY_API_KEY" \
             --metadata .github/metadata.yaml \
-            --vercel-json .github/vercel.json \
             --static static:static \
             --install datasette-template-sql \
             --install "datasette-atom>=0.7" \
@@ -71,5 +77,4 @@ jobs:
             --install "datasette-graphql>=0.12" \
             --install datasette-media \
             --plugins-dir .github/plugins \
-            --template-dir .github/templates \
-            --public
+            --template-dir .github/templates
